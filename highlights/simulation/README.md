@@ -1,1 +1,1 @@
-A clever design of a development simulation t otest runs of the game using iframes.
+A clever design of a development simulation to test runs of the game using iframes.
