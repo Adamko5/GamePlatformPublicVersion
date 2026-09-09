@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "1.0.0",
+  "gameId": "moonlit-market",
+  "displayName": "Moonlit Market",
+  "version": "0.3.0",
+  "minPlayers": 3,
+  "maxPlayers": 8,
+  "supportsGuestPlayers": true,
+  "requiredTier": "plus",
+  "service": {
+    "basePath": "/game-api/moonlit-market",
+    "healthEndpoint": "/health",
+    "readyEndpoint": "/ready"
+  },
+  "web": {
+    "basePath": "/games/moonlit-market",
+    "package": "games/moonlit-market/web"
+  },
+  "featureFlags": {
+    "usesWebSockets": true,
+    "usesPolling": false,
+    "supportsSessionSelfies": false
+  }
+}

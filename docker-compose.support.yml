@@ -1,0 +1,4 @@
+# Public architecture placeholder.
+# Local support services are private and intentionally omitted.
+services: {}
+

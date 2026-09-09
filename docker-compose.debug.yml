@@ -1,0 +1,4 @@
+# Public architecture placeholder.
+# Debug service definitions are private and intentionally omitted.
+services: {}
+
